@@ -1,0 +1,10 @@
+{
+    "name": "foray1010.ignore-sync.issues.726",
+    "description": "https://github.com/foray1010/ignore-sync/issues/726",
+    "scripts": {
+        "ignore-sync": "ignore-sync ."
+    },
+    "devDependencies": {
+        "ignore-sync": "7.0.1"
+    }
+}
